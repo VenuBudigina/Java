@@ -1,0 +1,11 @@
+public class StudentDetails {
+  public static void main(String args[]) {
+
+    System.out.println("\t\t\t\t\tStudent Details");
+    System.out.println("\nName:Venu\t\t\t\t\t |\t\tRegNo:23K61A4708");
+    System.out.println("FatherName:Narasimhamurthy\t |\t\tAadharNo:12345524513");
+    System.out.println("Occupation:Farmer\t\t\t |\t\tDOB:13/04/2005");
+    System.out.println("Parentmobile:323456567\t\t |\t\tNumber of subjects passed:10");
+  }
+}
+
